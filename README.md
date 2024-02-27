@@ -10,7 +10,7 @@ ARTO is a simple drawing application built with HTML, CSS, and JavaScript. It pr
 - Responsive design
 
 ### Usage:
-1. Clone the repository: `git clone [repository-url]`
+1. Clone the repository: `[git clone [repository-url]](https://github.com/Bharath-kumar-893/Arto.git)`
 2. Open `index.html` in your preferred web browser.
 
 ### Tools:
@@ -23,17 +23,9 @@ ARTO is a simple drawing application built with HTML, CSS, and JavaScript. It pr
 ### Contributing:
 Contributions are welcome! Feel free to open issues or submit pull requests for any improvements or additional features you'd like to see.
 
-### Credits:
-This project was created by [Your Name] as a part of [Project/Assignment Name].
-
 ### License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Demo:
-[Insert Link to Demo if Applicable]
-
-### Screenshots:
-[Insert Screenshots if Available]
 
 ### Contact:
 For any inquiries or support, please contact bharathkumar08092003@gmail.com.
